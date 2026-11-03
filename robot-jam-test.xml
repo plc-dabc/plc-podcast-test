@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>PLC Podcast Hosting Test</title>
     <link>https://playlearnchat.com/</link>
-    <description>Three episodes for testing podcast playback.</description>
+    <description>A PLC test show for podcast playback, artwork and timed captions.</description>
+    <itunes:image href="https://playlearnchat.com/wp-content/uploads/2026/11/%E2%9A%A0%EF%B8%8FTEST-Podcast-episode-artwork-Robot-Jam-Session-scaled.jpg"/>
     <language>en-au</language>
     <itunes:block>yes</itunes:block>
     <item>
@@ -13,6 +14,7 @@
       <guid isPermaLink="false">plc-podcast-mvp-pigeon-encore-003</guid>
       <pubDate>Tue, 03 Nov 2026 02:00:00 GMT</pubDate>
       <itunes:duration>3</itunes:duration>
+      <podcast:transcript url="https://plc-dabc.github.io/plc-podcast-test/pigeon-encore.vtt" type="text/vtt" language="en" rel="captions"/>
       <enclosure url="https://plc-dabc.github.io/plc-podcast-test/pigeon-encore.mp3" length="12166" type="audio/mpeg"/>
     </item>
     <item>
