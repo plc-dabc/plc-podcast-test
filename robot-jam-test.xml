@@ -42,7 +42,7 @@
       <guid isPermaLink="false">plc-podcast-mvp-robot-jam-001</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
       <itunes:duration>373</itunes:duration>
-      <enclosure url="https://media.transistor.fm/4a766a31/92bd0816.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.transistor.fm/4a766a31/92bd0816.mp3" length="0" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
