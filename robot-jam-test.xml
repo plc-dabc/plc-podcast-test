@@ -8,6 +8,7 @@
     <itunes:block>yes</itunes:block>
     <item>
       <title>GitHub-hosted audio test</title>
+      <itunes:image href="https://playlearnchat.com/wp-content/uploads/2026/11/%E2%9A%A0%EF%B8%8FTEST-Podcast-episode-artwork-Robot-Jam-Session-scaled.jpg"/>
       <description>A two-second original tone served from GitHub Pages.</description>
       <guid isPermaLink="false">plc-podcast-mvp-github-audio-002</guid>
       <pubDate>Tue, 03 Nov 2026 01:00:00 GMT</pubDate>
