@@ -4,12 +4,12 @@
     <title>PLC Podcast Hosting Test</title>
     <link>https://playlearnchat.com/</link>
     <description>A PLC test show for podcast playback, artwork and timed captions.</description>
-    <itunes:image href="https://playlearnchat.com/wp-content/uploads/2026/11/%E2%9A%A0%EF%B8%8FTEST-Podcast-episode-artwork-Robot-Jam-Session-scaled.jpg"/>
+    <itunes:image href="https://plc-dabc.github.io/plc-podcast-test/test-cover.png"/>
     <language>en-au</language>
     <itunes:block>yes</itunes:block>
     <item>
       <title>Pigeon Encore</title>
-      <itunes:image href="https://playlearnchat.com/wp-content/uploads/2026/11/%E2%9A%A0%EF%B8%8FTEST-Podcast-episode-artwork-Robot-Jam-Session-scaled.jpg"/>
+      <itunes:image href="https://plc-dabc.github.io/plc-podcast-test/test-cover.png"/>
       <description>A new three-second test tone hosted on GitHub Pages.</description>
       <guid isPermaLink="false">plc-podcast-mvp-pigeon-encore-003</guid>
       <pubDate>Tue, 03 Nov 2026 02:00:00 GMT</pubDate>
@@ -19,7 +19,7 @@
     </item>
     <item>
       <title>GitHub-hosted audio test</title>
-      <itunes:image href="https://playlearnchat.com/wp-content/uploads/2026/11/%E2%9A%A0%EF%B8%8FTEST-Podcast-episode-artwork-Robot-Jam-Session-scaled.jpg"/>
+      <itunes:image href="https://plc-dabc.github.io/plc-podcast-test/test-cover.png"/>
       <description>A two-second original tone served from GitHub Pages.</description>
       <guid isPermaLink="false">plc-podcast-mvp-github-audio-002</guid>
       <pubDate>Tue, 03 Nov 2026 01:00:00 GMT</pubDate>
