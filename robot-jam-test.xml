@@ -3,9 +3,17 @@
   <channel>
     <title>PLC Podcast Hosting Test</title>
     <link>https://playlearnchat.com/</link>
-    <description>One episode for testing podcast playback.</description>
+    <description>Two episodes for testing podcast playback.</description>
     <language>en-au</language>
     <itunes:block>yes</itunes:block>
+    <item>
+      <title>GitHub-hosted audio test</title>
+      <description>A two-second original tone served from GitHub Pages.</description>
+      <guid isPermaLink="false">plc-podcast-mvp-github-audio-002</guid>
+      <pubDate>Tue, 03 Nov 2026 01:00:00 GMT</pubDate>
+      <itunes:duration>2</itunes:duration>
+      <enclosure url="https://plc-dabc.github.io/plc-podcast-test/github-audio-test.mp3" length="8195" type="audio/mpeg"/>
+    </item>
     <item>
       <title>The Robot Jam Session</title>
       <description>SoundHelix music used in the Transistor test.</description>
