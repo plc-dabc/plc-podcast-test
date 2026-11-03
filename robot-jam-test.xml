@@ -8,6 +8,16 @@
     <language>en-au</language>
     <itunes:block>yes</itunes:block>
     <item>
+      <title>Spoken transcript test</title>
+      <description>A spoken test of episode artwork and timed captions.</description>
+      <itunes:image href="https://plc-dabc.github.io/plc-podcast-test/test-cover.png"/>
+      <guid isPermaLink="false">plc-podcast-mvp-spoken-004</guid>
+      <pubDate>Tue, 03 Nov 2026 10:00:00 GMT</pubDate>
+      <itunes:duration>13</itunes:duration>
+      <podcast:transcript url="https://plc-dabc.github.io/plc-podcast-test/spoken-test.vtt" type="text/vtt" language="en"/>
+      <enclosure url="https://plc-dabc.github.io/plc-podcast-test/spoken-test.mp3" length="26433" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Pigeon Encore</title>
       <itunes:image href="https://plc-dabc.github.io/plc-podcast-test/test-cover.png"/>
       <description>A new three-second test tone hosted on GitHub Pages.</description>
